@@ -1,4 +1,4 @@
-# Jessi Portifolio - Web design
+# Jessi Portifolio - Web design 
 
 
 ## Table of contents
