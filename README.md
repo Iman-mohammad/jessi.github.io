@@ -1,4 +1,3 @@
-#jessi.github.io
 
 ## Table of contents
 
